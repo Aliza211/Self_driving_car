@@ -20,6 +20,8 @@ Steps included in the project:
 ## Demo
 ![](https://github.com/Aliza211/Selfdriving/blob/main/YouCut-20220606-094139933-2.gif)
 
+This is the self driving car running on the autonomous mode using the model created using the above steps.
+
 
 
 
