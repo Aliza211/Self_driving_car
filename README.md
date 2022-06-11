@@ -11,7 +11,7 @@ Steps included in the project:
 
 2.Collect the dataset using the training mode of the simulator.
 
-3.Train a CNN model usimg those collected data.
+3.Train a CNN model using those collected data.
 
 4.Then test the trained model in the autonomous mode.
 
